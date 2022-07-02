@@ -1,0 +1,14 @@
+{
+  "name": "todospy",
+  "version": "1.0.0",
+  "description": "This is a NodeJs application where users can save, edit, add todos.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pritam Paul",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
